@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BA52-15D2
+
+ Directory of C:\Users\KSharma\Desktop\Tools\Git\Myfolder
+
+27-09-2018  16:01    <DIR>          .
+27-09-2018  16:01    <DIR>          ..
+27-09-2018  12:59                 7 test1.txt
+27-09-2018  16:01                 0 test2.txt
+               2 File(s)              7 bytes
+               2 Dir(s)  91,555,684,352 bytes free
